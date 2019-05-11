@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+
+language: node_js
+node_js:
+  - "6"
